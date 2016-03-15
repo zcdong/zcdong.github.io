@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 15521330713@163.com
 description: "关于嵌入式、软件、编程 |  这里是 @周城东 的个人博客，与你一起发现更大的世界。"
 keyword: "周城东，蛋协，蛋协会长，智能硬件与互联网创业协会，肖玉仙"
-url: "zcdong.github.io"              # your host, for absolute URL
+url: "周城东.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -56,7 +56,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: zcdong.github.io
+ga_domain: 周城东.cn
 
 
 
