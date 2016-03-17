@@ -3,12 +3,11 @@ layout:     post
 title:      "我是如何被CVTE刷掉的？"
 date:       2016-3-17 13:43:33
 author:     "ZhouCD"
-header-img: "img/cvte.jpg"
+header-img: "img/post-bg-cvte.jpg"
 tags:
     - CVTE
     - 嵌入式
     - 编程
-    - C/C++
 ---
 
 是的，没错。
