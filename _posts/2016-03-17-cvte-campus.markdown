@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "我是如何被CVTE刷掉的？"
-date:       2016-3-17 13:43:33
+date:       2016-3-17
 author:     "ZhouCD"
 header-img: "img/post-bg-cvte.jpg"
 tags:
